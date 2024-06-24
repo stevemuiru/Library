@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: grid;
+    place-items: center;
+}
+#new-book-form{
+    height: 150px;
+    width: 150px;
+    border: 1px solid #71717a;
+    width: 80%;
+}
